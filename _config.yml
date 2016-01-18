@@ -1,0 +1,28 @@
+name: RW
+favicon: null
+layout_spectrum: 0.6273324645590037
+typography_spectrum: 0.09780965652316809
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.43581952806562185
+  lightness: 0.5153348136227578
+  saturation: 0.5606662558857352
+  rhythmicContrast: 0.9684999075252563
+purpose: []
